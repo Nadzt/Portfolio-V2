@@ -1,0 +1,30 @@
+// COLOR VARIABLES
+$color-primary: rgba(15, 15, 25, 1);
+$color-primary-2: rgba(15, 20, 30, 1);
+
+$color-secondary: #556180; // tbd
+
+$color-tertiary: #2F4680; // tbd
+$color-tertiary-2: #317C85; // tbd
+
+$color-grey: #aaa; // tbd
+
+$color-highlights: #fff; // tbd
+
+$color-black: #000; // tbd
+$color-white: #e7e7e7;
+
+// FONT VARIABLES
+$font-primary: sans-serif; // Normal font for text
+$font-display: sans-serif; // Font for H1s, H2s, H3s, etc.
+$font-default-size: 1.6rem;
+
+// BOX SHADOW VARIABLES
+$box-shadow-light: 0 2rem 5rem rgba(0, 0, 0, .1);
+$box-shadow-dark: 0 2rem 6rem rgba( 0, 0, 0, .4);
+
+// RESPONSIVE BREAKPOINTS
+$bp-largest: 75em; // 1200px
+$bp-large: 62.5em; // 1000px
+$bp-medium: 50em; // 800px
+$bp-small: 37.5em; // 600px
